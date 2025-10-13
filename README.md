@@ -42,3 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenatom&" alt="stevenatom" /></p>
 
+<p><img align="center" src="https://origin.picgo.net/2025/10/14/workinga7d33e5e8bc7ff5a.gif" alt="stevenatom" /></p>
