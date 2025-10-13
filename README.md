@@ -34,7 +34,7 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<div align="center"><img src="https://pic1.imgdb.cn/item/68ec94edc5157e1a886b7283.jpg" /></div>
+<div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenatom&show_icons=true&locale=en&layout=compact" alt="stevenatom" /></p>
 
