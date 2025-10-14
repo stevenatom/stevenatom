@@ -1,8 +1,17 @@
 <h1 align="center">🙋 Hi 👋, I'm Steven</h1>
-<h3 align="center">A passionate SOC from China</h3>
-
+<h3 align="center">A passionate Codefarmer from China</h3>
 
 <a href="https://chenlong.co/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+
+
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stevenatom/stevenatom/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/stevenatom/stevenatom/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenatom&label=Profile%20views&color=0e75b6&style=flat" alt="stevenatom" /> </p>
 
