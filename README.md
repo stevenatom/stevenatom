@@ -1,5 +1,5 @@
 <h1 align="center">🙋 Hi 👋, I'm Steven</h1>
-<h3 align="center">💻 A passionate Codefarmer from China</h3>
+<h3 align="center">💻 A passionate codefarmer from China</h3>
 
 <p align="center">
   <a href="https://chenlong.co/">
