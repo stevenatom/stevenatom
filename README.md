@@ -47,7 +47,7 @@
 
 - 🔭 Currently working on **[SOC](https://github.com/stevenatom)**
 - 📝 I write tech articles on [https://chenlong.co](https://chenlong.co)
-- 📫 Reach me at **xxxxx@qq.com**
+- 📫 Reach me at **xxxxxx@qq.com**
 
 ---
 
