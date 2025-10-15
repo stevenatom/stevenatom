@@ -11,7 +11,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenatom&label=Profile%20views&color=0e75b6&style=flat" alt="stevenatom" /> </p>
 
