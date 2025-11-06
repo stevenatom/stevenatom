@@ -41,6 +41,11 @@
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </p>
 
+<!-- plugin metrics -->
+<div align="center">
+  <img src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
+</div>
+
 ---
 
 ### 🏆 Achievements
